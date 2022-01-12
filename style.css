@@ -3,10 +3,13 @@
 }
 
 html {
-  font-family: sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 18px;
 }
 
+body {
+  background-color: #fefefe;
+}
 article {
   width: 48rem;
   margin: 0 auto;
